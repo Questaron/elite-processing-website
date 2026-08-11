@@ -143,6 +143,7 @@ export const approvedStates = [
   "Illinois",
   "Indiana",
   "Michigan",
+  "Minnesota",
   "Montana",
   "New Jersey",
   "North Carolina",
@@ -157,7 +158,6 @@ export const approvedStates = [
 export const upcomingStates = [
   "Idaho",
   "Maryland",
-  "Minnesota",
   "Oregon",
   "Tennessee",
   "Washington",
