@@ -151,16 +151,16 @@ export const approvedStates = [
   "Oklahoma",
   "Pennsylvania",
   "South Carolina",
+  "Tennessee",
   "Texas",
   "Virginia",
+  "Washington",
 ];
 
 export const upcomingStates = [
   "Idaho",
   "Maryland",
   "Oregon",
-  "Tennessee",
-  "Washington",
 ];
 
 export const testimonials = [
